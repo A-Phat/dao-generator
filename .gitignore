@@ -1,0 +1,11 @@
+.vscode/
+.history/
+.idea/
+
+*.code-workspace
+
+postgres_data/
+mysql_data/
+otel/
+*.sum
+*.exe
